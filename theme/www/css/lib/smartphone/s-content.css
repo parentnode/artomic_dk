@@ -1,0 +1,20 @@
+#content {position: relative; display: table; height: 100%; width: 100%;}
+#content .scene {position: relative; padding: 50px 0; display: table-cell; vertical-align: middle;
+}
+
+#content .scene h1 {text-indent: -9999px; height: 120px; padding: 0;
+	background: transparent url(/img/logo.png) no-repeat center center; background-size: 280px auto;
+}
+#content .scene h2,
+#content .scene ul.info {
+	display: none;
+}
+#content .scene p {
+	text-align: center;
+	width: 300px;
+	margin: 0 auto;
+}
+
+#content .scene a {
+	text-decoration: underline;
+}
