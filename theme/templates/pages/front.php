@@ -27,7 +27,7 @@
 	<div class="articlebody" itemprop="articleBody">
 		<h2>Børnenes kunstlaboratorium</h2>
 		<p>
-			ARTOMIC, børnenes kunstlaboratorium henvender sig til børn mellem 7-14 år, som ønsker eller har et behov for at blive støttet kunstterapeutisk.
+			Børnenes kunstlaboratorium henvender sig til børn ml. 7-14 år. Som kunstlaboranter får børnene et rum til at skabe, udforske og opleve hvordan kreative øvelser, med afsæt i kunstterapien, kan have en forløsende effekt.
 		</p>
 		<p>
 			Kontakt os på <a href="mailto:info@artomic.dk">info@artomic.dk</a> eller læs mere på <a href="https://www.facebook.com/Artomic-1720187664794361">Facebook</a>
